@@ -8,4 +8,4 @@ Domain : Python Programming
 
 Duration : June to July 2024
 
-Project overview:-
+Overview of the project
