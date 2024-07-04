@@ -8,7 +8,7 @@ Domain : Python Programming
 
 Duration : June to July 2024
 
-Overview of the project
+Project Overview: Simple Calculator
 
 # Simple Calculator
 
