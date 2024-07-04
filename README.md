@@ -32,3 +32,11 @@ Division: Divide one number by another (with error handling for division by zero
   
 4. # View Result:
    The result of the operation will be displayed.
+
+
+# Files:
+
+# Task1:
+The main script containing the calculator code.
+# README.md: 
+A file providing an overview and instructions for the project.
