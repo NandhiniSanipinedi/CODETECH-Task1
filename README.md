@@ -23,14 +23,14 @@ Division: Divide one number by another (with error handling for division by zero
 
 ## How to Use
 
-1. # Run the Program:
+# 1. Run the Program:
     Execute the calculator.py script.
-2. # Choose Operation:
+# 2. Choose Operation:
    Select the desired arithmetic operation by entering the corresponding number (1 for addition, 2 for subtraction, 3 for multiplication, 4 for division).
-3. # Enter Numbers:
+# 3. Enter Numbers:
    Input the two numbers you want to operate on.
   
-4. # View Result:
+# 4. View Result:
    The result of the operation will be displayed.
 
 
